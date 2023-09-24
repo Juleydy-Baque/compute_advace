@@ -6,9 +6,9 @@ if(!isset($_SESSION))
 
 // Define database
 define('dbhost', 'localhost');
-define('dbuser', 'myadmin');
-define('dbpass', 'password');
-define('dbname', 'computer_advance');
+define('dbuser', 'admin');
+define('dbpass', '123');
+define('dbname', 'compute_advance');
 
 // Connecting database
 try {
