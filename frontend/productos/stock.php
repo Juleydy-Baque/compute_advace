@@ -14,7 +14,7 @@ if (!isset($_SESSION['rol']) || $_SESSION['rol'] != 1) {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-        <title>Preciosas Cosmetic</title>
+        <title>Compute Advance</title>
         <link rel="stylesheet" href="../../backend/css/admin.css">
         <link rel="icon" type="image/png" href="../../backend/img/ca.png">
         <link rel="stylesheet"
@@ -83,7 +83,7 @@ if (!isset($_SESSION['rol']) || $_SESSION['rol'] != 1) {
         <input type="checkbox" id="menu-toggle">
         <div class="sidebar">
             <div class="side-header">
-                <h3>Preciosas<span>Cosmetic</span></h3>
+                <h3>Compute<span>Advance</span></h3>
             </div>
 
             <div class="side-content">
